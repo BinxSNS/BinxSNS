@@ -1,4 +1,4 @@
-![Banner]([https://via.placeholder.com/1200x200.png?text=Welcome+to+My+GitHub+Profile+%F0%9F%91%8B](https://github.com/BinxSNS/BinxSNS/blob/main/standard(4).gif)) 
+![Banner](https://github.com/BinxSNS/BinxSNS/blob/main/standard(4).gif) 
 
 # About Me
 
